@@ -70,7 +70,7 @@
       $("body").addClass("dark-theme");
       darktoggle.src = "assets/img/icon/sun-icon.png";
       home1bgimg.style.backgroundImage =
-        "url('assets/img/bg/page-bg-dark-1.jpg')";
+        "url('assets/img/bg/page-bg-dark-1.jpg')";  
     }
 
     // Attach click event to the specified div
